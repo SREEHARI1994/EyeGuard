@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eye Guard</string>
+    <string name="title_activity_dispatcher">DispatcherActivity</string>
+    <string name="description">sounding small alarms to guard your eyes from over exposure to screen</string>
+    <string name="notification_title">Eye Guard</string>
+    <string name="notification_message">Eye Guard running in background.Touch to stop</string>
+<string name="ticker_text">eye guard</string>
+    <string name="buttonA1">Adjust Time till Reminder</string>
+    <string name="buttonA2">Adjust Interval Time</string>
+    <string name="buttonA3">Confirm Changes</string>
+    <string name="T1">How long till you need a break to give rest to your eyes? </string>
+    <string name="T2">How long of a break do you need? </string>
+    <string name="channel_name">Eye guard notification channel </string>
+    <string name="channel_name2">Eye guard 2nd notification channel </string>
+
+</resources>
